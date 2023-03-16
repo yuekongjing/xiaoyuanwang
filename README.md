@@ -6,6 +6,8 @@
 
     1.获取到三个数据：Request  URL、Request Header和  Form Data。如何获取：(https://mubucm.com/doc/e_rq6P_CVe)
     
-    2.安装 python3.9.13 和  pycharm(可选)
+    2.安装 python3.9.13 和  pycharm (可选)
     
-    3.安装requests库（pip install request）
+    3.使用pip安装requests库和Pyinstaller
+    
+    4.
