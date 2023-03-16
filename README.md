@@ -10,4 +10,4 @@
     
     3.使用pip安装requests库和Pyinstaller
     
-    4.
+    4.重点讲一下Pyinstaller：Pyinstaller是将login.py文件打包成exe。
