@@ -10,4 +10,10 @@
     
    ### 3.使用pip安装requests库和Pyinstaller
     
-   ### 4.重点讲一下Pyinstaller：Pyinstaller是将login.py文件打包成exe。
+   ### 4.重点讲一下Pyinstaller：Pyinstaller是将login.py文件打包成login.exe。简要教程：(https://mubucm.com/doc/4hqOsNUgODO)
+   
+   ### 5.最后一步，在桌面按CTRL+R，输入SHELL:STARTUP,将打包好的login.exe文件复制到启动文件夹中。
+   
+   ### 6.WiFi连接处，校园网要选择自动连接，不然可能会导致无法进入校园网登录界面。
+   
+   ### 7.成功。
