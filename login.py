@@ -1,5 +1,5 @@
 import requests
-url = "http://10.0.2.101/eportal/InterFace.do?method=login"
+url = ""
 
 data = {
     "userId": "",
